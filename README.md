@@ -36,7 +36,7 @@ Supervised-learning-project/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── SL_PROJECT_V4.ipynb     # full analysis (all steps, with outputs)
+│   └── SL_PROJECT_V4.py     # full analysis (all steps, with outputs)
 ├── src/                        # Python modules (to be added)
 ├── report/
 └  └── report.pdf
