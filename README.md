@@ -39,10 +39,7 @@ Supervised-learning-project/
 │   └── SL_PROJECT_V4.ipynb     # full analysis (all steps, with outputs)
 ├── src/                        # Python modules (to be added)
 ├── report/
-│   ├── report.tex              # LaTeX report
-│   ├── report.pdf
-│   └── figures/                # plots exported from the notebook
-└── mlflow.db, mlruns/          # experiment tracking (not versioned)
+└  └── report.pdf
 ```
 
 ---
@@ -125,4 +122,4 @@ Then open http://localhost:5000 and select the `adult-income` experiment.
 
 The full report is in [`report/report.pdf`](report/report.pdf).
 
-Authors: [Name 1], [Name 2], [Name 3]. See the contributions table in the report.
+Authors: Naye Kanouté/ Nicolas Dollet/ Danila ZHEKHOVSKII. See the contributions table in the report.
